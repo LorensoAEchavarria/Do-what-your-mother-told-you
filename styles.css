@@ -1,0 +1,16 @@
+h1{border:20px solid red;
+}
+body {
+ text-align:center; 
+}
+
+img {
+ height:400px;   
+}
+
+.images{
+ margin-top:10px;   
+}
+input{
+    width:190px;
+}
